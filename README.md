@@ -1,5 +1,7 @@
 # Text Generation Web App
 
+You can access it by following the link: https://ruslan.streamlit.app/.
+
 The app is built and hosted by Streamlit. You can use it to generate a text as a response to a prompt. The generative model is GPT-2 provided by HuggingFace.
 
 ## Building and deploying
